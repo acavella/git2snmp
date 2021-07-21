@@ -1,0 +1,3 @@
+this is a sample config
+set interface ge001
+set interface ge001:1
