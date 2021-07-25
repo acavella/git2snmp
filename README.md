@@ -1,6 +1,3 @@
-# git2snmp
-A library of shell tools used to interact with network appliances or other SNMP capable devices and sync them with local and remote git repositories.
-
 <!-- PROJECT SHIELDS -->
 <!--
 *** I'm using markdown "reference style" links for readability.
@@ -25,10 +22,10 @@ A library of shell tools used to interact with network appliances or other SNMP 
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">project_title</h3>
+  <h3 align="center">git2snmp</h3>
 
   <p align="center">
-    project_description
+    A library of shell tools used to interact with network appliances or other SNMP capable devices and sync them with local and remote git repositories.
     <br />
     <a href="https://github.com/altcipher/git2snmp"><strong>Explore the docs »</strong></a>
     <br />
