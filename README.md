@@ -19,7 +19,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/altcipher/git2snmp">
-    <img src="images/logo.png" alt="Logo" height="80">
+    <img src="images/logo2.png" alt="Logo" height="80">
   </a>
 
   <h3 align="center">git2snmp</h3>
