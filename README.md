@@ -27,7 +27,7 @@
   <p align="center">
     A library of shell tools used to interact with network appliances or other SNMP capable devices and sync them with local and remote git repositories.
     <br />
-    <a href="https://github.com/altcipher/git2snmp"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/altCipher/git2snmp/wiki"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://github.com/altcipher/git2snmp">View Demo</a>
