@@ -103,7 +103,7 @@ This is an example of how to list things you need to use the software and how to
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/github_username/repo_name.git
+   git clone https://github.com/altcipher/git2snmp.git
    ```
 2. Install NPM packages
    ```sh
@@ -170,15 +170,15 @@ Project Link: [https://github.com/altcipher/git2snmp](https://github.com/altciph
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/altcipher/repo.svg?style=for-the-badge
-[contributors-url]: https://github.com/altcipher/repo/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/altcipher/repo.svg?style=for-the-badge
-[forks-url]: https://github.com/altcipher/repo/network/members
-[stars-shield]: https://img.shields.io/github/stars/altcipher/repo.svg?style=for-the-badge
-[stars-url]: https://github.com/altcipher/repo/stargazers
-[issues-shield]: https://img.shields.io/github/issues/altcipher/repo.svg?style=for-the-badge
-[issues-url]: https://github.com/altcipher/repo/issues
-[license-shield]: https://img.shields.io/github/license/altcipher/repo.svg?style=for-the-badge
-[license-url]: https://github.com/altcipher/repo/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/altcipher/git2snmp.svg?style=for-the-badge
+[contributors-url]: https://github.com/altcipher/git2snmp/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/altcipher/git2snmp.svg?style=for-the-badge
+[forks-url]: https://github.com/altcipher/git2snmp/network/members
+[stars-shield]: https://img.shields.io/github/stars/altcipher/git2snmp.svg?style=for-the-badge
+[stars-url]: https://github.com/altcipher/git2snmp/stargazers
+[issues-shield]: https://img.shields.io/github/issues/altcipher/git2snmp.svg?style=for-the-badge
+[issues-url]: https://github.com/altcipher/git2snmp/issues
+[license-shield]: https://img.shields.io/github/license/altcipher/git2snmp.svg?style=for-the-badge
+[license-url]: https://github.com/altcipher/git2snmp/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/altcipher
